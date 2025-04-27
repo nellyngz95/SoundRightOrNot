@@ -1,7 +1,4 @@
----
-layout: default
-title:Synthetic audio optimization by feature driven importance.
----
+
 
 # Synthetic audio optimization by feature driven importance.
 
