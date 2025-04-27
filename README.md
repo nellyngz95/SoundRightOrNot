@@ -1,2 +1,10 @@
-# SoundRightOrNot
-*Further information about the sound right or not experiment. Details, sound samples, analysis. ETC
+---
+layout: default
+title:Synthetic audio optimization by feature driven importance.
+---
+
+# Synthetic audio optimization by feature driven importance.
+
+Welcome to my GitHub Pages site using the Minimal theme! 🎉
+
+Here's some more content I'm adding to my homepage.
